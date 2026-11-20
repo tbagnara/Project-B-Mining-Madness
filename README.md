@@ -1,5 +1,7 @@
 # Mining Madness
-Mine the most amount of valuable ores in the fastest time in this arcade style, score-attack game.
+## Mine the most amount of valuable ores in the fastest time in this arcade style, score-attack game.  
+<img src="https://img.itch.zone/aW1hZ2UvNTIxMDA5OS8zMTIxODEwOC5wbmc=/original/0EDdMS.png" width="100%" alt="Gameplay screenshot of Mining Madness">  
+
 ### What is this?
 This is a prototype of focused on incorporating procedural generation into the gameplay loop. Mining madness utilizes Perlin noise to generate smooth noise maps that mimic the appearance of ore veins in a 2D plane, making each run unique.
 ### Where can I try it?
